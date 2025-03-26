@@ -1,6 +1,6 @@
+#!category=Moorigin
 #!name=机场流量信息
 #!desc=显示机场剩余流量信息以及套餐到期日期
-#!category=机场流量信息
 #!arguments=NAME:机场名字,URL:编码后的机场订阅,RESET_DAY:重置日期,ICON:bolt.circle,COLOR:#FFB6C1
 
 #!arguments-desc=[参数设置]\n
